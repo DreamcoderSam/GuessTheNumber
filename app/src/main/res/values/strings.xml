@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Play With Number</string>
+
+    <string name="instruction">Input any number 1-10. If the number is match with the hidden app number you will win</string>
+
+</resources>
